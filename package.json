@@ -1,7 +1,7 @@
 {
   "name": "ellipsis-random-response",
   "homepage": "https://github.com/ellipsis-ai/ellipsis-random-response",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Return a random thematic response and/or emoji",
   "main": "index.js",
   "scripts": {
